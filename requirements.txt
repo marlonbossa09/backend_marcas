@@ -7,3 +7,4 @@ passlib[bcrypt]
 python-dotenv
 typing-extensions
 psycopg2-binary
+email-validator
